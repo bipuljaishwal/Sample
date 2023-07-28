@@ -1,6 +1,6 @@
 <?php
 
-//Just in case somebody visits the / directory.
+//just in case someone visits the /mobile section.
 
 error_reporting(0); // Turn off all error reporting
 $id = $_GET["id"];
