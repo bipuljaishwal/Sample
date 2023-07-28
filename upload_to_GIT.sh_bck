@@ -1,0 +1,9 @@
+
+#!/bin/bash
+
+cd | pwd ; git add .
+git commit -S -m "SignedCommit"
+git push
+echo "============================================================="
+echo "Content of directory" `pwd` "deployed successfully"
+echo "Push completed to GIT";
